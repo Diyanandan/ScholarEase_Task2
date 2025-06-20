@@ -1,0 +1,12 @@
+[
+    {
+        "Alumni_Name": "Rahul Sharma",
+        "Scholarship_Name": "Merit Scholarship",
+        "Amount": 50000.0
+    },
+    {
+        "Alumni_Name": "Priya Mehta",
+        "Scholarship_Name": "Excellence Scholarship",
+        "Amount": 75000.0
+    }
+]

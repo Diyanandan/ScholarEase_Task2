@@ -1,0 +1,26 @@
+[
+    {
+        "Student_ID": 101,
+        "Student_Name": "Aarav Sharma",
+        "Age": 19,
+        "Program": "B.Tech",
+        "Department": "Civil Engineering",
+        "Gender": "Male",
+        "Email": "aarav.sharma@example.com",
+        "Contact_No": "9876543210",
+        "Annual_Income": 500000.0,
+        "CPI": " 8.2"
+    },
+    {
+        "Student_ID": 102,
+        "Student_Name": "Ishita Verma",
+        "Age": 20,
+        "Program": "B.Tech",
+        "Department": "Computer Science",
+        "Gender": "Female",
+        "Email": "ishita.verma@example.com",
+        "Contact_No": "9876543211",
+        "Annual_Income": 300000.0,
+        "CPI": 9.2
+    }
+]
